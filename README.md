@@ -1,22 +1,9 @@
-# Hanami::Assets
+<!--- This file is synced from hanakai-rb/repo-sync -->
 
-Assets management for Ruby web projects
+[rubygem]: https://rubygems.org/gems/hanami-assets
+[actions]: https://github.com/hanami/hanami-assets/actions
 
-## Status
-
-[![Gem Version](https://badge.fury.io/rb/hanami-assets.svg)](https://badge.fury.io/rb/hanami-assets)
-[![CI](https://github.com/hanami/hanami-assets/actions/workflows/ci.yml/badge.svg)](https://github.com/hanami/hanami-assets/actions?query=workflow%3Aci+branch%3Amain)
-
-## Contact
-
-* Home page: http://hanamirb.org
-* Community: http://hanamirb.org/community
-* Guides: https://guides.hanamirb.org
-* Mailing List: http://hanamirb.org/mailing-list
-* API Doc: http://rubydoc.info/gems/hanami-assets
-* Forum: https://discourse.hanamirb.org
-* Chat: http://chat.hanamirb.org
-
+# Hanami Assets [![Gem Version](https://badge.fury.io/rb/hanami-assets.svg)][rubygem] [![CI Status](https://github.com/hanami/hanami-assets/workflows/CI/badge.svg)][actions]
 
 ## Installation
 
@@ -242,10 +229,6 @@ $ npm install
 $ bundle exec rake test
 ```
 
-## Versioning
-
-__Hanami::Assets__ uses [Semantic Versioning 2.0.0](http://semver.org)
-
 ## Contributing
 
 1. Fork it (https://github.com/hanami/assets/fork)
@@ -254,6 +237,13 @@ __Hanami::Assets__ uses [Semantic Versioning 2.0.0](http://semver.org)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-## Copyright
+## Links
 
-Copyright © 2014–2024 Hanami Team – Released under MIT License
+- [User documentation](https://hanamirb.org)
+- [API documentation](http://rubydoc.info/gems/hanami-assets)
+
+
+## License
+
+See `LICENSE` file.
+
